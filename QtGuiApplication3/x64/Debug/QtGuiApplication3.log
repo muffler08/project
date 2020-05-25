@@ -1,0 +1,5 @@
+﻿  uic QtGuiApplication3.ui
+  QtGuiApplication3.cpp
+  main.cpp
+  moc_QtGuiApplication3.cpp
+  QtGuiApplication3.vcxproj -> C:\Users\muffl\source\repos\영상처리 플젝\x64\Debug\QtGuiApplication3.exe
